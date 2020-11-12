@@ -1,5 +1,5 @@
 # Instagram-post-liker
-
+A program to automate instagram likes using selinium
 
 # Required library
 * Selinium    # pip install selinium
